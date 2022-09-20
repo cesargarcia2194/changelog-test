@@ -2,6 +2,7 @@
 My custom changelog template. Don’t worry about indentation here; it is automatically removed from the output.
 
 {{#each releases}}
+    ## [{{title}}] - {{isoDate}}
     Every release has a {{title}} and a {{href}} you can use to link to the commit diff.
     It also has an {{isoDate}} and a {{niceDate}} you might want to use.
     {{#each merges}}
