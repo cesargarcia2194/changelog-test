@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "auto-changelog -p --output HISTORY.md --template changelog-template.hbs && git add CHANGELOG.md"
+    "version": "auto-changelog -p --output HISTORY.md --template changelog-template.hbs"
   },
   "author": "",
   "license": "ISC",
