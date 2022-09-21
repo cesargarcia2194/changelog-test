@@ -1,11 +1,11 @@
 {
   "name": "changelog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "auto-changelog -p --template changelog-template.hbs && git add CHANGELOG.md"
+    "version": "auto-changelog -p --output HISTORY.md --template changelog-template.hbs && git add CHANGELOG.md"
   },
   "author": "",
   "license": "ISC",
