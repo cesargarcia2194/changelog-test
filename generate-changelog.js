@@ -8,7 +8,7 @@ try {
     if (err) {
       console.error(err);
     }
-    fs.unlinkSync('./HISTORY.md')
+    //fs.unlinkSync('./HISTORY.md')
   });
 } catch (err) {
   console.error(err);
