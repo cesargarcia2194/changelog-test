@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/cesargarcia2194/changelog-test/compare/v1.1.1...v1.2.0) (2022-09-23)
+
+
+### Features
+
+* add funtionality printing ([70cbc81](https://github.com/cesargarcia2194/changelog-test/commit/70cbc81859f20fdad1c56a817070b72093aa63ca))
+
 ### [1.1.1](https://github.com/cesargarcia2194/changelog-test/compare/v1.1.0...v1.1.1) (2022-09-23)
 
 
