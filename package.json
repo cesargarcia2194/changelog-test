@@ -5,12 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "auto-changelog -p --output HISTORY.md --template changelog-template.hbs"
+    "version": "auto-changelog -p --output HISTORY.md --template changelog-template.hbs",
+    "release": "standard-version"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "auto": "^10.37.6",
-    "auto-changelog": "^2.4.0"
+    "auto-changelog": "^2.4.0",
+    "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "npm-auto-version": "^1.0.0"
   }
 }
