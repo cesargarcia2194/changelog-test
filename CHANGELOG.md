@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/cesargarcia2194/changelog-test/compare/v1.1.0...v1.1.1) (2022-09-23)
+
+
+### Bug Fixes
+
+* console.log ([0671fb7](https://github.com/cesargarcia2194/changelog-test/commit/0671fb7d296496cdafb240cabe9322d978935dea))
+
 ## 1.1.0 (2022-09-23)
 
 
